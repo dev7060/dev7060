@@ -1,4 +1,4 @@
-### Some stuff by me
+### Some of my stuff
 
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window)
 
