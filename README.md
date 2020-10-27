@@ -1,4 +1,4 @@
-### something something by me
+### Some stuff by me
 
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window)
 
@@ -13,8 +13,6 @@
 [Why is String Immutable in Java?](https://bytes.com/topic/java/answers/974380-why-string-immutable-java#post3828256)
 
 [Windows Update](https://bytes.com/topic/windows/answers/970276-windows-update-problems#post3828007)
-
-[No new line at end of the file](https://bytes.com/topic/c/answers/973119-warning-no-new-line-end-file)
 
 [No new line at end of the file](https://bytes.com/topic/c/answers/974057-how-fix-no-new-line-end-file)
 
