@@ -4,6 +4,8 @@
 
 [GitHub Guide](https://bytes.com/topic/visual-basic/answers/974309-internet-distribution-site-vb6-project)
 
+[Unicode](https://bytes.com/topic/c/answers/974514-what-minimum-requirements-all-17-planes-unicode-c)
+
 [Polynomial Arithmetic](https://bytes.com/topic/c/answers/974481-polynomial-operations#post3828694)
 
 [What is stream in java?](https://bytes.com/topic/java/answers/973869-what-stream-java)
