@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=dev7060&style=plastic&&label=PROFILE+VIEWS)
-
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window)
 
 [GitHub Guide](https://bytes.com/topic/visual-basic/answers/974309-internet-distribution-site-vb6-project)
