@@ -1,5 +1,3 @@
-Some of my posts/answers
-
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window#post3827312)
 
 [GitHub Guide](https://bytes.com/topic/visual-basic/answers/974309-internet-distribution-site-vb6-project#post3827979)
