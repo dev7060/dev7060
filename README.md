@@ -16,3 +16,7 @@ https://github.com/dev7060/Suven-Projects
 
 https://github.com/dev7060/convex-web
 
+https://github.com/k9-devs/Ninik
+
+https://github.com/dev7060/Saphaaya-PC-Optimizer
+
